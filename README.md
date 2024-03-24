@@ -1,6 +1,6 @@
 # Resume
 ## David Taxer
-### Offensive Security Consultant  | Management Experience 
+### InfoSec|Pentest|SEO|Purple
 #### https://www.linkedin.com/davidtaxer
 ##### 3nk1dev@protonmail.com
 ```                                          
