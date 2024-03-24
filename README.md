@@ -15,7 +15,9 @@ Entrepreneurial Security Researcher affiliated with SANS, DefCon, BlackHat, Popu
 
 
 PROFESSIONAL EXPERIENCE 
-EC-Council  10/2023 Author & Narrator of “Mastering Threat Modeling: Defending Against Sophisticated Cyber Threats With Predictive Modeling”
+EC-Council  
+10/2023 
+Author & Narrator of “Mastering Threat Modeling: Defending Against Sophisticated Cyber Threats With Predictive Modeling”
 Created a soon-to-be-released four-hour course on threat modeling in which cybersecurity students and professionals will deep dive into major threat modeling frameworks, tools, mindsets, and methodologies with bonus content on the use of game theory in the modeling of insider threat scenarios.
 
 Trusted Cyber Partners In Practice  06/2021 - Present Founder, Penetration Tester, SEO Ninja & OSINT Guy
