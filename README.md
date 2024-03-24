@@ -1,8 +1,8 @@
 # Resume
 ## David Taxer
-### 3nk1dev@protonmail.com
-#### Offensive Security Consultant  | Management Experience
-##### https://www.linkedin.com/davidtaxer
+### Offensive Security Consultant  | Management Experience 
+#### https://www.linkedin.com/davidtaxer
+##### 3nk1dev@protonmail.com
 
 Entrepreneurial Security Researcher affiliated with SANS, DefCon, BlackHat, Popular CTF Platforms, and Trace Labs. Highly experienced at red teaming, social engineering, threat modeling, threat hunting, penetration testing, and digital forensics in the insurance sector. 
 
