@@ -33,14 +33,16 @@ Hired 12 people
 Gained experience in physical security testing and AML/Fraud investigations utilizing OSINT, Red Team, and counter-intelligence tools and techniques
 Achieved status on TryHackMe.com and related platforms
 
-Re‐Elect Peter Defazio 2009 – 2011 Student Internship 
-Received LOR from the campaign manager for mentoring volunteers to communicate confidently through outbound calls. 
+Re‐Elect Peter Defazio 2009 – 2011 Campaign Consultant 
+Mentored volunteers to communicate confidently through outbound calls. 
 Answered inbound calls from major donors and affiliates. 
 Focused on calling opposing parties and independent voters. 
 Publically commended by Congressman DeFazio for contributions to outreach language 
 Entrusted by the campaign to assist with managing the day-to-day operations of campaign headquarters.
+
 AT&T 2006–2009 Sales Consultant
 Set regional sales records while working for AT&T and gained knowledge of GSM technologies.
+
 Dick’s Country Dodge 2005 – 2006 Sales Consultant
 Learned the art of social engineering from a master closer who has authored books on closing car deals.
 Personality: I am ethical, creative, communicative, competitive, and professional, with high empathy for others. I work very well independently but enjoy teamwork as well. My interests include computer science, STEM, threat modeling, game theory, behavioral modeling, search engine optimization, political science, evolutionary psychology, and programming, all of which make offensive security a natural adaptation.
