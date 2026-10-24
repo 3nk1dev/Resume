@@ -1,58 +1,75 @@
-# Resume
-## David Taxer
-### InfoSec|Pentest|SEO|Purple
-#### https://www.linkedin.com/davidtaxer
-```                                          
-   _____ _   _ _  ___ ____  _______     __
-  |___ /| \ | | |/ / |  _ \| ____\ \   / /
-    |_ \|  \| | ' /| | | | |  _|  \ \ / / 
-   ___) | |\  | . \| | |_| | |___  \ V /  
-  |____/|_| \_|_|\_\_|____/|_____|  \_/   
-```                                       
+# David Taxer
 
-Entrepreneurial Security Researcher affiliated with SANS, DefCon, BlackHat, Popular CTF Platforms, and Trace Labs. Highly experienced at red teaming, social engineering, threat modeling, threat hunting, penetration testing, and digital forensics in the insurance sector. 
+**Cybersecurity · OSINT · Technical SEO · AI Workflows**
 
+[Website](https://www.davidtaxer.com/) · [LinkedIn](https://www.linkedin.com/in/davidtaxer/) · [GitHub](https://github.com/3nk1dev) · [The Clarity Doctrine](https://davidtaxer.substack.com/)
 
-PROFESSIONAL EXPERIENCE 
-EC-Council  
-10/2023 
-Author & Narrator of “Mastering Threat Modeling: Defending Against Sophisticated Cyber Threats With Predictive Modeling”
-Created a soon-to-be-released four-hour course on threat modeling in which cybersecurity students and professionals will deep dive into major threat modeling frameworks, tools, mindsets, and methodologies with bonus content on the use of game theory in the modeling of insider threat scenarios.
+I work across security assessment, open-source investigation, technical SEO, and AI-assisted knowledge workflows. My background combines independent cybersecurity consulting with a decade of building and running an insurance business. I bring an operator's perspective to technical work: understand the problem, investigate the evidence, and make the findings useful.
 
-Trusted Cyber Partners In Practice  06/2021 - Present Founder, Penetration Tester, SEO Ninja & OSINT Guy
-OSINT & Investigative Consultations for Private Investigators since 2022
-SEO & Online Privacy Consultations since 2021
-Penetration Testing & Offensive Security Consulting since 2022
-Mentored by James Flom, founder of SecTheory and ha.ckers.org, and began a merger process with SecTheory in early 2023 (James passed away in mid-2023)
-Restructured business, upskilled to adapt to sole-proprietorship
+## Areas of Focus
 
-Portland Benefits Group 2011 – 2021 Founder & Former Owner 
-Organized & Performed Internal, External, Physical, and Web Application Security Tests
-Achieved market domination with SEO 
-Personally set sales records out of 10,000 people within an insurance marketing organization
-Hired 12 people
-Gained experience in physical security testing and AML/Fraud investigations utilizing OSINT, Red Team, and counter-intelligence tools and techniques
-Achieved status on TryHackMe.com and related platforms
+- **Security:** Penetration testing, threat modeling, security assessments, digital forensics, and incident response.
+- **Investigation:** Open-source intelligence, investigative research, online privacy, and fraud research.
+- **Search and web:** Technical SEO, indexing, website structure, broken-link remediation, and lead generation.
+- **AI and knowledge workflows:** Curated research, reusable context, and model-independent workflows using Obsidian, Markdown, and Git.
 
-Re‐Elect Peter Defazio 2009 – 2011 Campaign Consultant 
-Mentored volunteers to communicate confidently through outbound calls. 
-Answered inbound calls from major donors and affiliates. 
-Focused on calling opposing parties and independent voters. 
-Publically commended by Congressman DeFazio for contributions to outreach language 
-Entrusted by the campaign to assist with managing the day-to-day operations of campaign headquarters.
+## Experience
 
-AT&T 2006–2009 Sales Consultant
-Set regional sales records while working for AT&T and gained knowledge of GSM technologies.
+### Founder | [Texas Cyber Solutions](https://www.texascybersolutions.com/)
+**2024 to present**
 
-Dick’s Country Dodge 2005 – 2006 Sales Consultant
-Learned the art of social engineering from a master closer who has authored books on closing car deals.
-Personality: I am ethical, creative, communicative, competitive, and professional, with high empathy for others. I work very well independently but enjoy teamwork as well. My interests include computer science, STEM, threat modeling, game theory, behavioral modeling, search engine optimization, political science, evolutionary psychology, and programming, all of which make offensive security a natural adaptation.
+- Provide cybersecurity consulting focused on penetration testing, threat modeling, OSINT, and security assessments.
+- Work on digital forensics and incident response investigations.
+- Translate technical findings into practical recommendations for business owners and teams.
 
-EDUCATION 
-Bachelor of Science With Honors In Political Science ◼ UNIVERSITY OF OREGON 2011 
+### Founder | Auctoritas Marketing
+**2026 to present**
 
-Notable Skills: Legal Research and Writing, PADI certified Rescue Diver, BSA Lifeguard, BSA First Aid, Former Internal Hospital Transporter stationed in Cardiac specializing in rapid transport to ICU
+- Launching an SEO, web services, and lead-generation business.
+- Apply experience in technical search optimization and business development to client acquisition and website improvement.
 
+### SEO and Web Consulting | InfoSystems Inc.
+**2025, engagement concluded December 2025**
 
+- Worked on search indexing, website structure, and technical SEO.
+- Addressed broken links and legacy-domain issues to improve the site's search foundation.
 
+### Course Author and Instructor | EC-Council
 
+- Created [Threat Modeling Deconstructed](https://learn.eccouncil.org/course/threat-modeling-deconstructed), a published course on threat modeling frameworks, tools, and methodologies.
+- Developed material connecting threat modeling with game theory and insider-threat scenarios.
+
+### Earlier Independent Consulting | Trusted Cyber Partners In Practice
+**Founded 2021**
+
+- Provided SEO and online privacy consulting, followed by penetration testing and offensive security work.
+- Conducted OSINT and investigative consultations for private investigators.
+
+### Founder and Former Owner | Portland Benefits Group
+**2011 to 2021**
+
+- Built and operated an insurance business, using SEO and self-generated leads to support sales.
+- Hired and managed a team and oversaw business operations.
+- Conducted internal, external, physical, and web application security testing.
+- Applied OSINT and investigative techniques to fraud and security concerns.
+
+### Earlier Experience
+
+- **Campaign Consultant, Re-Elect Peter DeFazio | 2009 to 2011:** Volunteer coaching, voter and donor communications, and campaign headquarters operations.
+- **Sales Consultant, AT&T | 2006 to 2009:** Telecommunications sales and customer service.
+- **Sales Consultant, Dick's Country Dodge | 2005 to 2006:** Automotive sales and customer relationship development.
+
+## Selected Work
+
+- **[Beyond the Second Brain](https://github.com/3nk1dev/beyond-the-second-brain):** A public, work-in-progress guide to model-independent knowledge workflows using Obsidian, Markdown, and Git. Focused on curated knowledge and reusable context for AI-assisted work.
+- **[The Clarity Doctrine](https://davidtaxer.substack.com/):** My writing on Substack.
+- **[Threat Modeling Deconstructed](https://learn.eccouncil.org/course/threat-modeling-deconstructed):** My published EC-Council course.
+
+## Education
+
+**University of Oregon**  
+Bachelor of Science in Political Science, with honors, 2011
+
+## Connect
+
+For security, research, SEO, or AI workflow projects, connect with me on [LinkedIn](https://www.linkedin.com/in/davidtaxer/) or visit [davidtaxer.com](https://www.davidtaxer.com/).
